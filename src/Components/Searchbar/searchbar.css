@@ -1,0 +1,30 @@
+.search-bar {
+  margin: 20px 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.search-bar input {
+  width: 96%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.widget-list {
+  list-style: none;
+  padding: 0;
+}
+
+.widget-list li {
+  padding: 8px 0;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.widget-list li strong {
+  font-size: 16px;
+  color: #333;
+}

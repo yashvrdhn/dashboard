@@ -1,0 +1,35 @@
+
+.widget {
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #eaeaea;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.widget-name {
+  font-weight: bold;
+}
+
+.widget-text {
+  margin-left: 10px;
+  color: #666;
+}
+
+.remove-widget {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.remove-widget:hover {
+  background-color: #c0392b;
+}
